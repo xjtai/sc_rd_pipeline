@@ -1,3 +1,5 @@
+
+
 # 广小联 AI 全流程实战落地工作坊
 
 题目：《广小联企业级高可用智能客服 Agent》。详细需求见 [`prd.md`](./prd.md)。
@@ -144,7 +146,7 @@ eval.md 判定结论为"通过"或"有条件通过"后，请完成 tasks.md 的 
 prd.md                          业务需求（已给，不要修改）
 tests/test-cases.md             功能测试用例 15 条（简单/较复杂/复杂 各 5），自测用，扩进 eval.md §1.1
 assets/ui-reference.svg         PRD 引用的 UI 参考图
-templates/                      五份产出文档的结构模板（Coding Agent 起草时参照，人评审后重命名去掉 .template）
+templates/                      五份产出文档的结构模板（Coding Agent 起草时参照，复制到根目录后去掉 .template）
   spec.template.md
   plan.template.md
   tasks.template.md
