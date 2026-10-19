@@ -1,7 +1,7 @@
 ---
 specId: PLAN-<组名>-001
 type: plan
-title: 广小联企业级高可用智能客服 Agent
+title: 国投资本企业级高可用智能客服 Agent
 parent_spec: spec.md
 domain: 客服
 system: <组名>-customer-service-agent
